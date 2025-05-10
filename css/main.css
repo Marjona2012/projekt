@@ -1,0 +1,33 @@
+.header{
+    width: 100%;
+    height: 78px;
+    margin:  0 auto;
+}
+.header__container{
+    width: 1541px;
+    margin: 0 auto;
+}
+.header__nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.header__list{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 30px;
+    list-style-type: none;
+}
+.btn {
+      width: 121px;
+      height: 44px;
+      background-color: blue;
+      border: none;
+      color: #fff;
+}
+.btntwo{
+    width: 121px;
+    height: 44px;
+    background: transparent;
+}
